@@ -1,0 +1,24 @@
+.container{
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+.container h1 {
+    font-size: 75px;
+    color: aliceblue;
+}
+.orange-bg{
+    background-color: #000000e9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: rgb(105, 87, 87);
+}
+.romdan{
+    color: antiquewhite;
+}
